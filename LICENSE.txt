@@ -1,0 +1,17 @@
+Custom License – All Rights Reserved
+
+Copyright (c) 2025 Ivaylo Nikolaev Kardashev
+
+This source code and all associated files are proprietary and confidential. Unauthorized copying, reproduction, modification, distribution, or use of this software, in whole or in part, is strictly prohibited without the express written permission of the copyright holder.
+
+This repository is provided for personal reference only. No license is granted to use the code in production, commercial projects, or redistributed works of any kind.
+
+You may not:
+- Reproduce or share any part of the code or project.
+- Use the code or any part of it in your own software.
+- Modify or create derivative works.
+- Use the code for commercial purposes.
+
+If you wish to use this code or discuss licensing terms, please contact the author.
+
+Contact: ivaylo.kardashev@gmail.com
